@@ -1,4 +1,4 @@
-export default [
+const produtos = [
   { id: 1, nome: "Ryzen 3 3200g", preco: 785.9 },
   { id: 2, nome: "Ryzen 3 3100", preco: 779.02 },
   { id: 3, nome: "Ryzen 3 3300x", preco: 1026.95 },
@@ -10,3 +10,5 @@ export default [
   { id: 9, nome: "Ryzen 9 3900x", preco: 3590.9 },
   { id: 10, nome: "Ryzen 9 3900xt", preco: 3699.0 },
 ];
+
+export default produtos;

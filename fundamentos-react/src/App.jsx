@@ -16,7 +16,7 @@ export default () => (
     <h1>Fundamentos React</h1>
 
     <div className="Cards">
-      <Card titulo="#DESAFIO - Repetição" color="#F0A479">
+      <Card titulo="#DESAFIO - Repetição" color="#A0A470">
         <TabelaProdutos></TabelaProdutos>
       </Card>
 
